@@ -112,3 +112,5 @@ In this simplified example, we have created a SimpleSearchEngine class that allo
 
 Conclusion
 Building a search engine in Java is a challenging but rewarding project. It involves document indexing, preprocessing, building an inverted index, implementing a ranking algorithm, and creating a user-friendly interface. While this guide provides a basic overview, building a robust search engine can be a complex task, and there are many open-source libraries and frameworks available to assist us. As we gain experience, we can continue to improve and expand your search engine's capabilities.
+
+GNU General Public License v3.0 
